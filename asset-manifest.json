@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ddbb55c.css",
+    "main.js": "/static/js/main.1ce9e3c8.js",
+    "static/js/81.a4cc023d.chunk.js": "/static/js/81.a4cc023d.chunk.js",
+    "static/media/ART.png": "/static/media/ART.9afbf68de733e14d43eb.png",
+    "static/media/infin.gif": "/static/media/infin.6f308ef97640c21fa312.gif",
+    "static/media/CASCADAIR.png": "/static/media/CASCADAIR.d1a550390bada4f4ba2f.png",
+    "static/media/rock.TTF": "/static/media/rock.d4c47d23aceb5a1710d6.TTF",
+    "static/media/CASCADER.png": "/static/media/CASCADER.6645daf19676cbbb6b95.png",
+    "static/media/logo.png": "/static/media/logo.ecef7b77a71377e6b187.png",
+    "static/media/TSI.png": "/static/media/TSI.1d973d18a8ecad4d3744.png",
+    "static/media/TIKA.png": "/static/media/TIKA.c49d7ae4045d4fe649ef.png",
+    "index.html": "/index.html",
+    "static/media/down.svg": "/static/media/down.78fefd7fe2b292ebe8152d9acb294011.svg",
+    "static/media/close.svg": "/static/media/close.761df8635d2e67eb10b4.svg",
+    "main.2ddbb55c.css.map": "/static/css/main.2ddbb55c.css.map",
+    "main.1ce9e3c8.js.map": "/static/js/main.1ce9e3c8.js.map",
+    "81.a4cc023d.chunk.js.map": "/static/js/81.a4cc023d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ddbb55c.css",
+    "static/js/main.1ce9e3c8.js"
+  ]
+}
